@@ -121,12 +121,8 @@ Response to UI
 ## 📸 Screenshots
 
 ![Task](Task.png)
-![Database](Database.png)
 
-```md
-![Database](./screenshots/Database.png)
-![Tasks](./screenshots/Task.png)
-```
+![Database](Database.png)
 
 ---
 
