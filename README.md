@@ -120,11 +120,11 @@ Response to UI
 
 ## 📸 Screenshots
 
-![alt text](Task.png)
-![alt text](Database-1.png)
+![Task](Task.png)
+![Database](Database.png)
 
 ```md
-![Data](./screenshots/Database.png)
+![Database](./screenshots/Database.png)
 ![Tasks](./screenshots/Task.png)
 ```
 
