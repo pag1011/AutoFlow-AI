@@ -120,9 +120,9 @@ Response to UI
 
 ## 📸 Screenshots
 
-![Task](Task.png)
+![Task](./screenshots/Task.png)
 
-![Database](Database.png)
+![Database](./screenshots/Database.png)
 
 ---
 
