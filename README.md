@@ -48,10 +48,10 @@ AutoFlow AI addresses this by converting natural language tasks into structured,
 
 ## ⚙️ Tech Stack
 
-**Frontend:** React.js, Axios
-**Backend:** Node.js, Express.js
-**Database:** MongoDB Atlas
-**AI / Automation:** AI-based task analysis (simulated fallback logic), Agentic workflow design (input → decision → output)
+- **Frontend:** React.js, Axios
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **AI / Automation:** AI-based task analysis (simulated fallback logic), Agentic workflow design (input → decision → output)
 
 ---
 
@@ -104,9 +104,11 @@ OPENAI_API_KEY=your_openai_api_key (optional)
 
 ### Start Backend Server
 
+```
 cd server
 npm install
 node server.js
+```
 
 Server will run on:
 ```
