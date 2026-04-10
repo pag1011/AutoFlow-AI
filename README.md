@@ -1,4 +1,4 @@
-# 🚀 AutoFlow AI
+# 🚀 AutoFlow AI 
 
 ### Intelligent Task Automation System
 
@@ -48,24 +48,10 @@ AutoFlow AI addresses this by converting natural language tasks into structured,
 
 ## ⚙️ Tech Stack
 
-### Frontend
-
-* React.js
-* Axios
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB Atlas
-
-### AI / Automation
-
-* AI-based task analysis (simulated fallback logic)
-* Agentic workflow design (input → decision → output)
+**Frontend:** React.js, Axios
+**Backend:** Node.js, Express.js
+**Database:** MongoDB Atlas
+**AI / Automation:** AI-based task analysis (simulated fallback logic), Agentic workflow design (input → decision → output)
 
 ---
 
@@ -100,13 +86,47 @@ Response to UI
 
 ---
 
-## 🧩 Key Highlights
+## ⚙️ Setup Instruction(IMPORTANT)
 
-* Designed with **agentic workflow principles** (input → decision → action)
-* Simulates **autonomous decision-making**
-* Ensures **data persistence and consistency**
-* Implements **full CRUD operations**
-* Focuses on **clean UI + usability**
+### Environment Variables 
+
+Create a .env file inside the server folder:
+```
+cd server
+```
+
+Create a file named .env and add:
+
+```
+MONGO_URI=your_mongodb_connection_string
+OPENAI_API_KEY=your_openai_api_key (optional)
+```
+
+### Start Backend Server
+
+cd server
+npm install
+node server.js
+
+Server will run on:
+```
+http://localhost:5000
+```
+
+### Start Frontend (React App)
+
+Open a new terminal:
+
+```
+cd client
+npm install
+npm start
+```
+
+Frontend will run on:
+```
+http://localhost:3000
+```
 
 ---
 
@@ -120,8 +140,10 @@ Response to UI
 
 ## 📸 Screenshots
 
+**User Interface**
 ![Task](./screenshots/Task.png)
 
+**Database**
 ![Database](./screenshots/Database.png)
 
 ---
