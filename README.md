@@ -152,7 +152,7 @@ http://localhost:3000
 
 ## 🎥 Demo Video
 
-(Add your Loom video link here)
+[(Add your Loom video link here)](https://www.loom.com/share/2e58617614e9450c9fec5f34d09b646d)
 
 ---
 
@@ -165,7 +165,7 @@ http://localhost:3000
 
 ---
 
-## 🙌 Conclusion
+## Conclusion
 
 AutoFlow AI demonstrates how a simple idea like task management can be transformed into a smart, intelligent system using modern full-stack development and automation concepts.
 
